@@ -4,7 +4,7 @@
 # about:
 # version: 0.1
 # authors: pfaffman
-# url: https://github.com/pfaffman
+# url: https://github.com/pfaffman/discourse-add-to-summary.git
 
 register_asset "stylesheets/common/discourse-add-to-summary.scss"
 
